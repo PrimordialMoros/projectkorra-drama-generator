@@ -1,0 +1,7 @@
+name = "projectkorra-drama-generator"
+type = "webpack"
+account_id = "805a6db5d56d9e6bfcbfbbb81ec75519"
+workers_dev = true
+route = ""
+zone_id = ""
+ 
